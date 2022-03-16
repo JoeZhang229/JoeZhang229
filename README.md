@@ -8,7 +8,7 @@
 ## You can find me on other platforms
 
 - [<img align="left" alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-- Portfolio: Check out my projects!(https://www.joezhang229.github.io/)
+- Portfolio: [Check out my projects!](https://www.joezhang229.github.io/)
 - Email: Joe.Zhang229@gmail.com
 
 [linkedin]: https://www.linkedin.com/in/joe-zhang-00229/
