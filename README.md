@@ -7,7 +7,7 @@
 
 ## You can find me on other platforms
 
-[<img align="left" alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- [<img align="left" alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 - Portfolio: Check out my projects![portfolio]
 - Email: Joe.Zhang229@gmail.com
 
